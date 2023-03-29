@@ -1,0 +1,179 @@
+      <!-- About Us Section -->
+      <!-- <section id="about-us" class="py-5">
+        <div class="container">
+          <h2 class="mb-4">About Us</h2>
+          <p>
+            We are a job recruitment service based in Sri Lanka that connects
+            talented professionals with leading employers across various
+            industries. Our mission is to help job seekers find their dream jobs
+            and help employers find the best candidates for their vacancies.
+          </p>
+          <p>
+            Our team of experienced recruiters has deep industry expertise and
+            can provide personalized job search and recruitment services to help
+            you achieve your career goals.
+          </p>
+        </div>
+      </section> -->
+
+            <!-- Featured jobs section -->
+      <!-- <section id="featured-jobs" class="py-5">
+        <div class="container">
+          <h2 class="mb-4">Featured Jobs</h2>
+          <div class="row">
+            <div class="col-lg-4 mb-4">
+              <div class="card">
+                <div class="card-body">
+                  <h3 class="card-title">Senior Software Engineer</h3>
+                  <p class="card-text">
+                    Our client, a leading tech company, is seeking a Senior
+                    Software Engineer to join their team in Colombo.
+                  </p>
+                  <a href="#" class="btn btn-primary">Apply Now</a>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 mb-4">
+              <div class="card">
+                <div class="card-body">
+                  <h3 class="card-title">Marketing Manager</h3>
+                  <p class="card-text">
+                    We are looking for a Marketing Manager to lead our team in
+                    developing and implementing marketing strategies for our
+                    clients.
+                  </p>
+                  <a href="#" class="btn btn-primary">Apply Now</a>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 mb-4">
+              <div class="card">
+                <div class="card-body">
+                  <h3 class="card-title">Human Resources Specialist</h3>
+                  <p class="card-text">
+                    Our client, a leading multinational company, is seeking a
+                    Human Resources Specialist to join their team in Kandy.
+                  </p>
+                  <a href="#" class="btn btn-primary">Apply Now</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section> -->
+
+
+       <!-- Testimonials section -->
+      <!-- <section id="testimonials" class="py-5">
+        <div class="container">
+          <h2 class="mb-4">Testimonials</h2>
+          <ul class="list-unstyled">
+            <li>
+              <blockquote>
+                "I had a great experience working with the Job Recruitment
+                Service Sri Lanka team. They helped me find my dream job in the
+                finance industry, and their personalized approach and industry
+                expertise really made a difference in my job search. I would
+                highly recommend them to anyone looking for a new opportunity in
+                Sri Lanka."
+              </blockquote>
+              <cite>John Doe, Finance Professional</cite>
+            </li>
+            <li>
+              <blockquote>
+                "As an employer, I have had the pleasure of working with the Job
+                Recruitment Service Sri Lanka team on multiple occasions. They
+                always provide us with top-notch candidates who are a great fit
+                for our company culture and requirements."
+              </blockquote>
+              <cite>Jane Smith, HR Manager</cite>
+            </li>
+          </ul>
+        </div>
+      </section> -->
+
+      <!-- <section id="contact-us" class="py-5">
+        <div class="container">
+          <h2 class="mb-4">Contact Us</h2>
+          <div class="row">
+            <div class="col-md-8">
+              <form>
+                <div class="form-group">
+                  <label for="name">Name</label>
+                  <input type="text" class="form-control" id="name" />
+                </div>
+                <div class="form-group">
+                  <label for="email">Email address</label>
+                  <input type="email" class="form-control" id="email" />
+                </div>
+                <div class="form-group">
+                  <label for="message">Message</label>
+                  <textarea class="form-control" id="message" rows="3"></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
+              </form>
+            </div>
+            <div class="col-md-4">
+              <h4>Address</h4>
+              <p>123 Main Street, Colombo, Sri Lanka</p>
+              <h4>Email</h4>
+              <p>info@jobrecruitment.lk</p>
+              <h4>Phone</h4>
+              <p>+94 11 123 4567</p>
+            </div>
+          </div>
+        </div>
+      </section> -->
+
+      <!-- Contact Us section -->
+      <!-- <section id="contact-us" class="py-5">
+        <div class="container">
+          <h2 class="mb-4">Contact Us</h2>
+          <div class="row">
+            <div class="col-md-6">
+              <p>
+                Have a question or want to learn more about our job recruitment
+                services? Fill out the form below and we'll get back to you as
+                soon as possible.
+              </p>
+              <form action="#" method="post">
+                <div class="form-group">
+                  <label for="name">Name</label>
+                  <input type="text" class="form-control" id="name" />
+                </div>
+                <div class="form-group">
+                  <label for="email">Email</label>
+                  <input type="email" class="form-control" id="email" />
+                </div>
+                <div class="form-group">
+                  <label for="message">Message</label>
+                  <textarea
+                    class="form-control"
+                    id="message"
+                    rows="5"
+                  ></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary">
+                  Send Message
+                </button>
+              </form>
+            </div>
+            <div class="col-md-6">
+              <div class="card">
+                <div class="card-body">
+                  <h3 class="card-title">Our Office</h3>
+                  <ul class="list-unstyled">
+                    <li>
+                      <i class="fas fa-map-marker-alt"></i> 123 Main St, Colombo
+                    </li>
+                    <li><i class="fas fa-phone"></i> (123) 456-7890</li>
+                    <li>
+                      <i class="fas fa-envelope"></i> info@jobrecruitmentsl.com
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section> -->

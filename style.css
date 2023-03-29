@@ -1,0 +1,70 @@
+/* Set font family and size */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+
+/* Set background color */
+body {
+  background-color: #f7f7f7;
+}
+
+/* Set header background color */
+header {
+  background-color: #fff;
+}
+
+/* Set header font color */
+header h1,
+header a {
+  color: #333;
+}
+
+/* Set navbar background color and font color */
+.navbar {
+  background-color: #333;
+}
+
+.nav-link {
+  color: #fff !important;
+}
+
+/* Set jumbotron background image */
+#hero {
+  background-image: url("pexels-fauxels-3184306.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+/* Set jumbotron font color */
+#hero h2,
+#hero p {
+  color: #fff;
+}
+
+#hero .container {
+    height: 200px;
+}
+
+/* Set featured jobs card height and border radius */
+.card {
+  height: 100%;
+  border-radius: 10px;
+}
+
+/* Set featured jobs card title color */
+.card-title {
+  color: #333;
+}
+
+/* Set why choose us section font color */
+#why-choose-us h2 {
+  color: #333;
+}
+
+/* Set why choose us media image size and border radius */
+.media img {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+}
