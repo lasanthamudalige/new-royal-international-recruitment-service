@@ -31,7 +31,7 @@ header a {
 
 /* Set jumbotron background image */
 #hero {
-  background-image: url("pexels-fauxels-3184306.jpg");
+  background-image: url("/images/pexels-fauxels-3184306.jpg");
   background-size: cover;
   background-position: center;
 }
