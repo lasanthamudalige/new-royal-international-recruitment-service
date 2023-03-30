@@ -68,3 +68,8 @@ header a {
   height: 64px;
   border-radius: 50%;
 }
+
+/* Remove underline in footer link */
+footer a:hover {
+  text-decoration: none;
+}
