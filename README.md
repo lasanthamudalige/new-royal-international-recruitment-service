@@ -45,4 +45,5 @@ Contributions to the codebase are welcome. If you would like to contribute, plea
 ## License
 This project is licensed under the MIT License.
 
-For any questions or inquiries, please email [lasantha1130@gmail.com](lasantha1130@gmail.com).
+For any questions or inquiries, please email <a href="mailto:lasantha1130@gmail.com">lasantha1130@gmail.com</a>.
+
