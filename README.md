@@ -43,7 +43,7 @@ To use the website, simply navigate to [https://lasanthamudalige.github.io/new-r
 Contributions to the codebase are welcome. If you would like to contribute, please fork the repository and submit a pull request with your changes.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/lasanthamudalige/new-royal-international-recruitment-service/blob/main/LICENSE).
 
 For any questions or inquiries, please email <a href="mailto:lasantha1130@gmail.com">lasantha1130@gmail.com</a>.
 
