@@ -69,7 +69,12 @@ header a {
   border-radius: 50%;
 }
 
-/* footer link for designer */
+/* Contact us section */
+#contact-us a {
+  color: #333;
+}
+
+/* footer link */
 footer a {
   text-decoration: underline;
 }
@@ -312,4 +317,9 @@ footer a:hover {
   + .container
   input[type="submit"]:hover {
   background-color: #3e8e41;
+}
+
+/* Team section */
+#team a {
+  color: #333;
 }
