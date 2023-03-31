@@ -29,7 +29,7 @@ License
 - Bootstrap 5
 
 ## Installation
-No installation is necessary to view the website. Simply visit the [website](#) to access the site.
+No installation is necessary to view the website. Simply visit the [website](https://lasanthamudalige.github.io/new-royal-international-recruitment-service/) to access the site.
 
 If you would like to clone the repository and work with the code, you can do so by running the following command in your terminal:
 ```
