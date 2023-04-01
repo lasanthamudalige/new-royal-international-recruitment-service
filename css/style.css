@@ -29,28 +29,24 @@ header a {
   color: #fff !important;
 }
 
-/* Set jumbotron background image */
-#hero {
-  background-image: url("../images/pexels-fauxels-3184306.webp");
-  background-size: cover;
-  background-position: center;
-}
-
-/* Set different background image for screens smaller than 1080px */
-@media (max-width: 1080px) {
-  #hero {
-    background-image: url("../images/pexels-fauxels-3184306-1080p.webp");
-    background-size: cover;
-    background-position: center;
-  }
-}
-
 /* Set different background image for screens smaller than 768px */
 @media (max-width: 768px) {
   #hero {
     background-image: url("../images/pexels-fauxels-3184306-720p.webp");
-    background-size: cover;
-    background-position: center;
+  }
+}
+
+/* Set different background image for screens between 768px and 1080px */
+@media (min-width: 769px) and (max-width: 1080px) {
+  #hero {
+    background-image: url("../images/pexels-fauxels-3184306-1080p.webp");
+  }
+}
+
+/* Set different background image for screens larger than 1080px */
+@media (min-width: 1081px) {
+  #hero {
+    background-image: url("../images/pexels-fauxels-3184306-highres.webp");
   }
 }
 
