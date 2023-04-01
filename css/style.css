@@ -33,6 +33,8 @@ header a {
 @media (max-width: 768px) {
   #hero {
     background-image: url("../images/pexels-fauxels-3184306-720p.webp");
+    background-size: cover;
+    background-position: center;
   }
 }
 
@@ -40,6 +42,8 @@ header a {
 @media (min-width: 769px) and (max-width: 1080px) {
   #hero {
     background-image: url("../images/pexels-fauxels-3184306-1080p.webp");
+    background-size: cover;
+    background-position: center;
   }
 }
 
@@ -47,6 +51,8 @@ header a {
 @media (min-width: 1081px) {
   #hero {
     background-image: url("../images/pexels-fauxels-3184306-highres.webp");
+    background-size: cover;
+    background-position: center;
   }
 }
 
