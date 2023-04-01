@@ -36,6 +36,15 @@ header a {
   background-position: center;
 }
 
+/* Set different background image for screens smaller than 1080px */
+@media (max-width: 1080px) {
+  #hero {
+    background-image: url("../images/pexels-fauxels-3184306-1080p.webp");
+    background-size: cover;
+    background-position: center;
+  }
+}
+
 /* Set jumbotron font color */
 #hero h2,
 #hero p {
