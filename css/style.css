@@ -92,6 +92,11 @@ header a {
 /* Contact us section */
 #contact-us a {
   color: #333;
+  text-decoration: underline;
+}
+
+#contact-us a:hover {
+  text-decoration: none;
 }
 
 /* footer link */
