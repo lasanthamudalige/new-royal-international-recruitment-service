@@ -36,6 +36,10 @@ header a {
     background-size: cover;
     background-position: center;
   }
+
+  .address-card {
+    height: 14rem;
+  }
 }
 
 /* Set different background image for screens between 768px and 1080px */
