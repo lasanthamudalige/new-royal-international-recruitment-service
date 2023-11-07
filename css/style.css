@@ -345,6 +345,12 @@ footer a:hover {
 }
 
 /* Team section */
-#team a {
+#team-members a {
   color: #333;
+  text-decoration: underline;
+}
+
+#team-members a:hover {
+  color: #333;
+  text-decoration: none;
 }
