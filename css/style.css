@@ -20,6 +20,12 @@ header a {
   color: #333;
 }
 
+header h1 {
+  font-family: "Merriweather", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
 /* Set navbar background color and font color */
 .navbar {
   background-color: #333;
